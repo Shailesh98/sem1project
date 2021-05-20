@@ -1,0 +1,112 @@
+.bootstrap-tagsinput {
+    width: 100%;
+}
+
+.label-info {
+    background-color: #090064;
+}
+
+.jumbotron {
+    height: 150vh;
+    margin: 0 auto;
+    color: black;
+}
+
+.bg-dark {
+    background-color: #ff0910!important;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #ff0910;
+    border-color: #ff0910;
+    padding: 10px;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #ff0910;
+    border-color: #ff0910;
+    padding: 10px;
+}
+
+.navbar-dark .navbar-brand {
+    margin: 0 auto;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 70px;
+}
+
+.label {
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 2;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.dropzone {
+    border: 1px dashed #e9ecef;
+}
+
+.dropzone .dz-message {
+    padding: 5% 0;
+    margin: 0px;
+}
+
+#UName,
+#Pass,
+#subject,
+#Receiver {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    display: inline-block;
+    padding: 4px 6px;
+    color: rgb(165, 165, 165);
+    vertical-align: middle;
+    border-radius: 4px;
+    width: 100%;
+    line-height: 22px;
+    cursor: text;
+}
+
+.hRMoLM .blockbuilder-branding {
+    display: none;
+}
+
+.nav-custom {
+    padding: 0%;
+}
+
+.nav-custom .nav-item {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+#navbarNav {
+    background-color: #333;
+    padding: 0%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ccc;
+}
+
+.navbar-toggler {
+    background-color: rgb(103, 97, 97);
+    border-radius: 0%;
+}
+
+@media only screen and (max-width: 900px) {
+    .jumbotron {
+        height: 150vh;
+        margin: 0 auto;
+        color: black;
+    }
+}
